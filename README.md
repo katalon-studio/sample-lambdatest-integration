@@ -1,2 +1,2 @@
-# sample-lambdatest-integration
-LambdaTest Integration Sample Project
+# LambdaTest Integration Sample Project
+For demonstration in the Codeless automation webinar
